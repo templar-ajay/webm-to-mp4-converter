@@ -11,7 +11,9 @@ open terminal and type the following commands:
    ```
 these commands will install handbrake-cli that is the engine that will actually do the conversion
 
-3. `npm i && npm run dev`
+3. ```bash
+   npm i && npm run dev
+   ```
    
 4. open browser and goto http://localhost:3000
 
